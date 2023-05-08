@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="MySQL - bks@203.171.21.153" uuid="f4c4f610-db28-4ae6-8305-75a1392d4f61">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://203.171.21.153:3306/wpcustomer</jdbc-url>
+    </data-source>
+  </component>
+</project>

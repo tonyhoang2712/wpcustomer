@@ -1,0 +1,59 @@
+@charset "UTF-8";
+
+#aw-c {
+	width:100%;
+	max-width:1140px;
+	margin:auto;
+}
+#aw {
+	width: 350px;
+	float: left;
+	margin-right: 30px;
+	margin-bottom: 30px;
+	background-color: #f8f8f8;
+	height: 720px;
+	padding: 20px;
+	overflow: auto;
+
+}
+
+#aw-btn {
+	position:relative;
+	margin-top:10px;
+}
+
+#aw-title {
+	font-size:16px;	
+	color:#000;
+}
+
+#aw-text{
+	margin-top:10px;
+	margin-bottom:10px;
+}
+
+#aw-text1{
+	font-size:14px;
+	color:#666;
+}
+
+#aw-text2{
+	font-size:14px;
+	margin-left:20px;
+	color:#666;
+}
+
+#aw-p{
+	width:310px;
+	margin:auto;
+}
+		  
+#aw2 {
+/*	width:50%;
+    float:left;*/
+	height:482px;
+	margin-top:40px;
+	padding:45px;
+	overflow:auto;
+    background:#FFF;
+}
